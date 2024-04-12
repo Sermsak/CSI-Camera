@@ -13,7 +13,7 @@ import cv2
 # Flip the image by setting the flip_method (most common values: 0 and 2)
 # display_width and display_height determine the size of the window on the screen
 # Notice that we drop frames if we fall outside the processing time in the appsink element
-
+# Modify date 12/04/2024
 def gstreamer_pipeline(
     capture_width=1920,
     capture_height=1080,
